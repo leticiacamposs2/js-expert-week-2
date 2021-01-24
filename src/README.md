@@ -7,3 +7,4 @@
 - As propriedades acessadas, serão as que foram modificadas via get e setter
 - Um dos conceitos de encapsulamento
 - F2 em cima da palavra a alteração reflete em todas as chamadas
+- Dentro do arquivo Util o contexto this se refere a classe Util podendo acessar tudo o que foi declarado em static
