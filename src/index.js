@@ -26,6 +26,8 @@ const GENDER = {
 
     assert.deepStrictEqual(employee.name, 'Mr. Joaozinho') //teste unitário
     assert.deepStrictEqual(employee.age, undefined) //teste unitário
+    assert.deepStrictEqual(employee.gender, undefined) //teste unitário
+    assert.deepStrictEqual(employee.grossPay, 0) //teste unitário
 }
 
 
