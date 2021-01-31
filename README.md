@@ -15,6 +15,17 @@ Repositório com o conteudo das aulas da semana JS Expert
 
 ---
 
-#### Playlists:
+### Projeto Zoom 🤯
+
+- [ ] Estruturando o seu projeto Zoom, conhecendo 3 Design Patterns
+- [ ] Comunicação em tempo real: WebRTC, Peer Server e Eventos personalizados
+- [ ] O poder do Media Recorder para gravação de grupos de vídeoconferências
+- [ ] Binary Objects na Web, download de arquivos de vídeo
+
+---
+
+#### Playlists e links:
 
 - 🔥 [Aquecimento Semana JS Expert](https://www.youtube.com/playlist?list=PLqFwRPueWb5evwLz8woHQ1Ay78yDlUvtv)
+- 🤯 [Projeto Zoom](https://javascriptexpert.com.br/lc_jan21_aulas?blog=2kvfihemb&video=xzvtdgx2)
+- 😄 [Projeto base da Js Expert 2.0](https://github.com/ErickWendel/jsexpert02-skeleton-ew)
