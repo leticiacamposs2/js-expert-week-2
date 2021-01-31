@@ -1,0 +1,2 @@
+- Comando `npm ci --silent` restaura as dependências na versão que funcionou da ultima vez
+- Comando `npm start`sobe a aplicação
